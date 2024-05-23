@@ -1,0 +1,20 @@
+{
+  "name": "t6ua2-student-manegment-system",
+  "version": "1.0.1",
+  "description": "this is a student manegment system",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tuba",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "inquirer": "^9.2.22"
+  }
+}
